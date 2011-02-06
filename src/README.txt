@@ -9,14 +9,14 @@ Setup
 =====
 Make environment with easy_install::
 
-    $ easy_install sphinxcontrib-themes-htmlslide
+    $ easy_install sphinxjp.themes.htmlslide
 
 
 Convert Usage
 ==============
 setup conf.py with::
 
-    extensions = ['sphinxcontrib.themes.core']
+    extensions = ['sphinxjp.themecore']
     html_theme = 'htmlslide'
 
 and run::
@@ -27,7 +27,7 @@ and run::
 Requirements
 ============
 * sphinx 1.0.x or later.
-* sphinxcontrib-themes-core
+* sphinxjp.themecore
 
 
 Presentation Environments

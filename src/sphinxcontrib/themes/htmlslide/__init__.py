@@ -7,5 +7,5 @@ template_path = path.join(package_dir, 'templates')
 
 
 #def get_path():
-#    """entry-point for sphinxcontrib-theme-core theme."""
+#    """entry-point for sphinxjp.themecore theme."""
 #    return template_path

@@ -16,7 +16,7 @@ classifiers = [
 ]
 
 setup(
-     name='sphinxcontrib-themes-htmlslide',
+     name='sphinxjp.themes.htmlslide',
      version=version,
      description='A sphinx theme for generate HTML Slide presentation.',
      long_description=long_description,
@@ -24,7 +24,7 @@ setup(
      keywords=['sphinx', 'reStructuredText', 'presentation'],
      author='Takayuki SHIMIZUKAWA',
      author_email='shimizukawa at gmail dot com',
-     url='http://bitbucket.org/shimizukawa/sphinxcontrib-themes-htmlslide',
+     url='http://bitbucket.org/shimizukawa/sphinxjp.themes.htmlslide',
      license='MIT',
      packages=find_packages('src'),
      package_dir={'': 'src'},
@@ -34,11 +34,11 @@ setup(
         'setuptools',
         'docutils',
         'sphinx',
-        'sphinxcontrib-themes-core',
+        'sphinxjp.themecore',
      ],
      entry_points="""
         [sphinx_themes]
-        path = sphinxcontrib.themes.htmlslide:template_path
+        path = sphinxjp.themes.htmlslide:template_path
      """,
      zip_safe=False,
 )
