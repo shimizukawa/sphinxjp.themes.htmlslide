@@ -1,0 +1,12 @@
+========
+AUTHORS
+========
+
+Sphinx template, css, packaging
+================================
+* Takayuki SHIMIZUKAWA <shimizukawa AT gmail.com> sphinx-users.jp
+
+HTML Slide javascript
+======================
+* NEED TO WRITE HERE
+
