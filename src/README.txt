@@ -42,10 +42,3 @@ Licensed under the `MIT license <http://www.opensource.org/licenses/mit-license.
 See the LICENSE file for specific terms.
 
 
-History
-=======
-
-0.1.0 (2011/2/6)
------------------
-* first release
-
