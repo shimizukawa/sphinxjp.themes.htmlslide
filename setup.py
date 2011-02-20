@@ -22,7 +22,7 @@ classifiers = [
 setup(
      name='sphinxjp.themes.htmlslide',
      version=version,
-     description='A sphinx theme for generate HTML Slide presentation.',
+     description='A sphinx theme for generate HTML Slide presentation. #sphinxjp',
      long_description=long_description,
      classifiers=classifiers,
      keywords=['sphinx', 'reStructuredText', 'presentation'],
