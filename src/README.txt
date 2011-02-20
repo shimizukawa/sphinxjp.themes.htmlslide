@@ -5,6 +5,12 @@ Features
 * provide ``htmlslide`` theme for render presentation.
 
 
+Output Sample
+==============
+:output: http://packages.python.org/sphinxjp.themes.htmlslide/
+:source: http://packages.python.org/sphinxjp.themes.htmlslide/_sources/index.txt
+
+
 Setup
 =====
 Make environment with easy_install::
