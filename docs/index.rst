@@ -40,7 +40,7 @@ setup your conf.py:
 
 .. code-block:: python
 
-    extensions = ['sphinxjp.themes.htmlslide']
+    extensions = ['sphinxjp.themecore']
     html_theme = 'htmlslide'
     pygments_style = 'monokai'
 

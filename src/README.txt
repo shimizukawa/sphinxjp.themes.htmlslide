@@ -25,6 +25,7 @@ setup conf.py with::
 
     extensions = ['sphinxjp.themecore']
     html_theme = 'htmlslide'
+    pygments_style = 'monokai'
 
 and run::
 
