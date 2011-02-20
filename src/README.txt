@@ -2,7 +2,8 @@ HTML Slide style presetation theme for Sphinx.
 
 Features
 ========
-* provide ``htmlslide`` theme for render presentation.
+* Provide ``htmlslide`` theme for render presentation.
+* Provide paging control by swipe action (for iPad but slow)
 
 
 Output Sample
