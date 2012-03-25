@@ -1,9 +1,13 @@
 History
 =======
 
+0.1.3 (2012/3/25)
+------------------
+* fixed less template: genindex.html, thank you @usaturn!
+
 0.1.2 (2011/7/6)
 ------------------
-* fixed namespace package declaration missing, thank you togakushi!
+* fixed namespace package declaration missing, thank you @togakushi!
 
 0.1.1 (2011/2/20)
 ------------------
