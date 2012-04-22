@@ -13,7 +13,13 @@
     <link rel="stylesheet" href="{{ pathto('_static/slide.css', 1) }}" type="text/css" id="slide-base" media="screen,projection" disabled="disabled" />
     <link rel="stylesheet" href="{{ pathto('_static/pygments.css', 1) }}" type="text/css" />
     <link rel="stylesheet" href="{{ pathto('_static/prettify.css', 1) }}" type="text/css" />
+    {%- for cssfile in css_files %}
+    <link rel="stylesheet" href="{{ pathto(cssfile, 1) }}" type="text/css" />
+    {%- endfor %}
     <script type="text/javascript" src="{{ pathto('_static/jquery.js', 1) }}"></script>
+    {%- for scriptfile in script_files %}
+    <script type="text/javascript" src="{{ pathto(scriptfile, 1) }}"></script>
+    {%- endfor %}
 {%- block extrahead %} {% endblock %}
   </head>
   <body>
