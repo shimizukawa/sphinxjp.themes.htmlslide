@@ -229,3 +229,12 @@ dt:hover > a.headerlink {
     visibility: visible;
 }
 
+div.align-center {
+	  text-align: center;
+}
+div.align-right {
+	  text-align: right;
+}
+div.align-left {
+	  text-align: left;
+}
